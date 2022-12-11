@@ -6,7 +6,7 @@
 
 #### Abilities(programming): I can work in HTML, CSS
 
-##### Example: (I cannot upload it cause it's my practises and I am still learning) 
+##### Example: (I cannot upload it cause it's my practises and I am still learning) [index.zip](https://github.com/AbbosBotirov/rsschool-cv/files/10201526/index.zip)
 
 ##### Education: I am learning in IT-Park university in Tashkent, I wrote myself in RSSchool cause I want to learn faster and further.
 
