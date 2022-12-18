@@ -1,0 +1,164 @@
+html {
+    background-color: rgb(102, 149, 149);
+    scroll-behavior: smooth;
+}
+
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    padding: 0 20px;
+    line-height: 50px;
+    transition: .3s;
+}
+
+img {
+    display:block;
+    width:300px;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius: 30%;
+
+}
+
+
+.Name {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Calibri, sans-serif;
+    text-align: right;
+    margin-top: auto;
+    margin: 1rem;
+    padding: 13px;
+    text-decoration-line:underline;
+}
+
+.status_programming {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Calibri, sans-serif;
+    text-align: right;
+    margin: 1rem;
+    padding: 1px;
+    text-decoration-line:underline;
+}
+
+.info {
+    font-size: 20px;
+    font-family: Calibri, sans-serif;
+    font-weight:bold;
+    text-align: left;
+    color:rgb(49, 49, 100);
+    @font-face {
+        font-family: 'Chivo Mono', monospace;
+        src: url(assets/fonts/ChivoMono-VariableFont_wght.ttf);
+    }
+
+}
+
+.Contacts {
+    font-size: 18px;
+    font-family: Calibri, sans-serif;
+    text-align:left;
+    margin: 1rem;
+    padding: 10px;
+    border-bottom: 2px solid #ccc;
+}
+.skills {
+    font-size: 18px;
+    font-family: Calibri, sans-serif;
+    text-align: left;
+    margin: 1rem;
+    padding: 10px;
+    border-bottom: 2px solid #ccc;
+}
+
+.skillsv3 {
+    font-size: 20px;
+    font-family: Calibri, sans-serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(49, 49, 100);
+}
+
+.Education {
+    font-size: 18px;
+    font-family: Calibri, sans-serif;
+    text-align: left;
+    margin: 1rem;
+    padding: 10px;
+    border-bottom: 2px solid #ccc;
+}
+
+.edu {
+    font-size: 20px;
+    font-family: Calibri, sans-serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(49, 49, 100);
+}
+
+.courses {
+    font-size: 19px;
+    font-family: Calibri, sans-serif;
+    text-align: left;
+    margin: 1rem;
+    padding: 10px;
+    border-bottom: 2px solid #ccc;
+}
+
+.cour {
+    font-size: 20px;
+    font-family: Calibri, sans-serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(49, 49, 100);
+}
+.summary {
+    font-size: 18px;
+    font-family: Calibri, sans-serif;
+    text-align: left;
+    margin: 1rem;
+    padding: 10px;
+    border-bottom: 2px solid #ccc;
+    
+}
+
+.sum {
+    font-size: 20px;
+    font-family: Calibri, sans-serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(49, 49, 100);
+}
+
+.english {
+    font-size: 18px;
+    font-family: Calibri, sans-serif;
+    text-align: left;
+    margin: 1rem;
+    padding: 10px;
+}
+
+.eng {
+    font-size: 20px;
+    font-family: Calibri, sans-serif;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(49, 49, 100);
+}
+footer {
+    font-size:14px;
+    background-color:black;
+    color:#ccc;
+    
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
